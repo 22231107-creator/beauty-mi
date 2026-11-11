@@ -6,7 +6,7 @@ A responsive e-commerce frontend for a cruelty-free skincare and makeup brand, b
 > **Student:** Maha A. Alhussein (individual project)
 > **Instructor:** Dr. Walid Amer
 > **Live demo:** https://beauty-mii.vercel.app
-> **Repository:** https://github.com/22231107-creator/beauty-mii
+> **Repository:** https://github.com/22231107-creator/beauty-mi
 
 ---
 
@@ -72,7 +72,7 @@ beauty-mii/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/22231107-creator/beauty-mii.git
+git clone https://github.com/22231107-creator/beauty-mi.git
 cd beauty-mii
 
 # 2. Install dependencies
