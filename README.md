@@ -5,7 +5,7 @@ A responsive e-commerce frontend for a cruelty-free skincare and makeup brand, b
 > **Course:** CSCI426 – Advanced Web Programming · Project Phase 1 · Fall 2026-27
 > **Student:** Maha A. Alhussein (individual project)
 > **Instructor:** Dr. Walid Amer
-> **Live demo:** https://beauty-mii.vercel.app
+> **Live demo:** https://beauty-mi.vercel.app
 > **Repository:** https://github.com/22231107-creator/beauty-mi
 
 ---
